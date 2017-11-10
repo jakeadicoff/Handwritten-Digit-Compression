@@ -49,4 +49,4 @@ __Number of Symbols:__
   
 Example command, pretty good results:
 
-./RK 100 rs uc .5 .01 200 32
+./compress 100 rs uc .5 .01 200 32
